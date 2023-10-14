@@ -1,7 +1,7 @@
 #                                                                  网络收藏家
 ## 聚合影视在线播放
 - [搜片](https://soupian.one/)
-- [豌豆PRO](https://wandou2.net/）
+- [豌豆PRO](https://wandou2.net/)
 - 
 
 
